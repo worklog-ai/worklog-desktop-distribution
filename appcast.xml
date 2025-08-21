@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Worklog Desktop</title>
+        <link>https://worksome.app</link>
+        <description>Updates for Worklog Desktop - A macOS app for tracking work items</description>
+        <language>en</language>
+        
+        <!-- This is a placeholder appcast.xml file -->
+        <!-- It will be automatically generated and updated by GitHub Actions -->
+        <!-- when new releases are published -->
+        
+        <item>
+            <title>Worklog Desktop - Placeholder</title>
+            <description><![CDATA[
+                <h2>Initial Release</h2>
+                <p>This is a placeholder entry. The appcast will be automatically updated when the first release is published via GitHub Actions.</p>
+                
+                <h3>Features</h3>
+                <ul>
+                    <li>Work item creation and editing with markdown support</li>
+                    <li>Dynamic text editor with collapsible UI</li>
+                    <li>Dark/light theme support</li>
+                    <li>Core Data persistence</li>
+                    <li>Real-time text formatting and preview</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/worklog-ai/Worklog-Desktop/releases/download/v1.0.0/WorklogDesktop-v1.0.0.dmg"
+                       sparkle:version="1.0.0"
+                       sparkle:shortVersionString="1.0.0"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
