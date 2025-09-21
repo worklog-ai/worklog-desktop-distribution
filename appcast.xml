@@ -6,9 +6,9 @@
     <language>en</language>
     <link>https://worksome.app</link>
     <item>
-      <title>Version v0.0.14</title>
+      <title>Version v0.0.15</title>
       <description><![CDATA[
-        <h2>What's New in v0.0.14</h2>
+        <h2>What's New in v0.0.15</h2>
         <ul>
           <li>Latest features and improvements</li>
           <li>Bug fixes and performance enhancements</li>
@@ -16,13 +16,13 @@
         </ul>
         <p><strong>Installation:</strong> If you see a security warning, right-click the app and select 'Open'</p>
       ]]></description>
-      <pubDate>Sun, 21 Sep 2025 09:56:44 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2025 10:20:35 +0000</pubDate>
       <enclosure
-        url="https://github.com/worklog-ai/Worklog-Desktop/releases/download/v0.0.14/WorklogDesktop-v0.0.14.dmg"
-        length="3471771"
+        url="https://github.com/worklog-ai/Worklog-Desktop/releases/download/v0.0.15/WorklogDesktop-v0.0.15.dmg"
+        length="3473504"
         type="application/octet-stream"
-        sparkle:version="v0.0.14"
-        sparkle:shortVersionString="v0.0.14" sparkle:edSignature="ERROR! Signing key not found for account ed25519. Please run generate_keys tool first or provide key with --ed-key-file <private_key_file>" />
+        sparkle:version="v0.0.15"
+        sparkle:shortVersionString="v0.0.15" sparkle:edSignature="ERROR! Signing key not found for account ed25519. Please run generate_keys tool first or provide key with --ed-key-file <private_key_file>" />
     </item>
   </channel>
 </rss>
